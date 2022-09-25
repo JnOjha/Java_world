@@ -12,7 +12,7 @@ public class V02_ArrayOf_Objects {
 		
 //		Students studentList[]=new Students[4];		This is also valid
 		
-		Students s[]= {s1,s2,s3,s4};
+//		Students s[]= {s1,s2,s3,s4};
 		
 	}
 
